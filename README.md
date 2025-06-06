@@ -30,12 +30,8 @@ This **Purchasing Dashboard** is designed to provide clear insights into procure
 ## 📸 **Dashboard Preview**  
 ![Dashboard Screenshot](INSERT_IMAGE_LINK_HERE)  
 
-🔗 **Live Dashboard:** [View Here]([INSERT_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZGRhNDMtMGEzOC00OGU4LWE1M2QtNTYxOWQ3MjkwN2M0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))
+🔗 **Live Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZGRhNDMtMGEzOC00OGU4LWE1M2QtNTYxOWQ3MjkwN2M0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-
-🔗 **Live Dashboard:** [View Here]([INSERT_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZGRhNDMtMGEzOC00OGU4LWE1M2QtNTYxOWQ3MjkwN2M0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))  
-
----
 
 ## 📌 **Key Learnings**
 ✅ **Data Validation:** Checking for missing, negative, or skewed values.  
