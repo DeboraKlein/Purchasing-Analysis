@@ -28,7 +28,8 @@ This **Purchasing Dashboard** is designed to provide clear insights into procure
 ---
 
 ## 📸 **Dashboard Preview**  
-![Dashboard Screenshot](INSERT_IMAGE_LINK_HERE)  
+![Dashboard Screenshot](![Purchasing - Purchasing Analysis by Debora Klein - Power BI - Google Chrome 06_06_2025 13_54_26](https://github.com/user-attachments/assets/a2d21154-1fca-4910-8fcf-a5b0afcdacb2)
+)  
 
 🔗 **Live Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZGRhNDMtMGEzOC00OGU4LWE1M2QtNTYxOWQ3MjkwN2M0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
