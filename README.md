@@ -1,4 +1,4 @@
-# 📊 Purchasing Dashboard
+#  Purchasing Dashboard
 
 ### **Optimizing Procurement Decisions with Data**  
 
@@ -6,40 +6,40 @@ This **Purchasing Dashboard** is designed to provide clear insights into procure
 
 ---
 
-## 🚀 **Key Features**
-✔ **Cards:**  
+##  **Key Features**
+ **Cards:**  
    - Total Cost with Discount  
    - Lead Time to Purchase  
    - Lead Time Delays  
 
-✔ **Slicers:**  
+ **Slicers:**  
    - Year  
    - Buyer  
    - Supplier  
 
-✔ **Area Charts:**  
+ **Area Charts:**  
    - **Total Cost with Discount by Month** (Includes tooltip showing **Original Cost per Supplier**)  
    - **Savings by Month**  
 
-✔ **Bar Charts:**  
+ **Bar Charts:**  
    - Lead Time Departure by Supplier  
    - Savings by Supplier  
 
 ---
 
-## 📸 **Dashboard Preview**  
-![Dashboard Screenshot](![Purchasing - Purchasing Analysis by Debora Klein - Power BI - Google Chrome 06_06_2025 13_54_26](https://github.com/user-attachments/assets/a2d21154-1fca-4910-8fcf-a5b0afcdacb2)
-)  
-
-🔗 **Live Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZGRhNDMtMGEzOC00OGU4LWE1M2QtNTYxOWQ3MjkwN2M0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+##  **Dashboard Preview**  
+![Dashboard Screenshot](https://github.com/user-attachments/assets/a2d21154-1fca-4910-8fcf-a5b0afcdacb2)
 
 
-## 📌 **Key Learnings**
-✅ **Data Validation:** Checking for missing, negative, or skewed values.  
-✅ **Supplier Performance Analysis:** Evaluating delivery times and cost-saving opportunities.  
-✅ **Cost Optimization Strategies:** Tracking discounts and raw material expenses.  
+ **Live Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiMTU3ZGRhNDMtMGEzOC00OGU4LWE1M2QtNTYxOWQ3MjkwN2M0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-📖 **Interested in optimizing your procurement process? Let’s connect!** 🚀📊  
+
+##  **Key Learnings**
+ **Data Validation:** Checking for missing, negative, or skewed values.  
+ **Supplier Performance Analysis:** Evaluating delivery times and cost-saving opportunities.  
+ **Cost Optimization Strategies:** Tracking discounts and raw material expenses.  
+
+ **Interested in optimizing your procurement process? Let’s connect!**   
 
 ---
 
@@ -48,5 +48,5 @@ This **Purchasing Dashboard** is designed to provide clear insights into procure
 
 ---
 
-✨ This Markdown is fully **structured, professional, and engaging**! Just replace `INSERT_IMAGE_LINK_HERE` and `INSERT_DASHBOARD_LINK_HERE` with your actual links. Would you like any **additional refinements** or features? 🚀📊  
+ This Markdown is fully **structured, professional, and engaging**! Just replace `INSERT_IMAGE_LINK_HERE` and `INSERT_DASHBOARD_LINK_HERE` with your actual links. Would you like any **additional refinements** or features? 
 
